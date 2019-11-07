@@ -27,10 +27,10 @@ const initialState = {
       features: []
     },
     additionalFeatures: [
-      { id: 1, name: "Beans", price: 1111 },
-      { id: 2, name: "Bing", price: 900 },
-      { id: 3, name: "Extra Chorgle", price: 350 },
-      { id: 4, name: "Cronkstyle", price: 999 }
+      { id: 1, name: "V-2 engine", price: 1111 },
+      { id: 2, name: "Parachute", price: 950 },
+      { id: 3, name: "Spoiler grill", price: 560 },
+      { id: 4, name: "Spike Tires", price: 1200 }
     ]
   }
 };
