@@ -20,8 +20,8 @@ const initialState = {
   car2: {
     additionalPrice: 0,
     car: {
-      price: 99999,
-      name: "Bungus",
+      price: 25000,
+      name: "MustangToo",
       image:
         "https://cdn.motor1.com/images/mgl/0AN2V/s1/2019-ford-mustang-bullitt.jpg",
       features: []
